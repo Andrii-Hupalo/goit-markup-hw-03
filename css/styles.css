@@ -305,8 +305,11 @@ a:focus {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.container .container-portfolio {
+  border: 1px solid #e7e9fc .portfolio-heading {
 
-.portfolio-heading {
+  }
+
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
