@@ -205,6 +205,7 @@ a:focus {
   margin: -1px;
   border: 0;
   padding: 0;
+  margin-bottom: 8px;
 
   white-space: nowrap;
   clip-path: inset(100%);
